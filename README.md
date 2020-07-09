@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on OpenVINO AI Edge Applications
 - 🌱 I’m currently learning Online resources and Udacity's Intel EdgeAI Scholarship
 - 👯 I’m looking to collaborate on any edge computing applications or webapps.
