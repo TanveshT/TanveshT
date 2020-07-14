@@ -14,6 +14,7 @@
   <img align="left" alt="My Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br/>
+<br/>
 
 - 🔭 I’m currently working on OpenVINO AI Edge Applications
 - 🌱 I’m currently learning Edge Computing
