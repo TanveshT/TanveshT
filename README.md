@@ -25,4 +25,4 @@
 - 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: Starfish isn't a fish.
 
-[![Tanvesh's github stats](https://github-readme-stats.vercel.app/api?username=TanveshT&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanvesh's github stats](https://github-readme-stats.vercel.app/api?username=TanveshT&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
