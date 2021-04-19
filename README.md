@@ -19,10 +19,4 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on OpenVINO AI Edge Applications
-- 🌱 I’m currently learning Edge Computing
-- 👯 I’m looking to collaborate on any edge computing applications or webapps.
-- 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: Starfish isn't a fish.
-
-[![Tanvesh's github stats](https://github-readme-stats.vercel.app/api?username=TanveshT&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
